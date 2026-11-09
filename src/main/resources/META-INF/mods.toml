@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[48,)"
+license="CC0-1.0"
+
+[[mods]]
+modId="pescaauto"
+version="1.0.0"
+displayName="Pesca AutoFarm"
+description='''Pesca automaticamente no minigame de pesca do servidor Rede Warriors. Apenas cliente.'''
+
+[[dependencies.pescaauto]]
+modId="forge"
+mandatory=true
+versionRange="[48,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.pescaauto]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.2,1.21)"
+ordering="NONE"
+side="CLIENT"

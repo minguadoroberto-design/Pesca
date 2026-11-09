@@ -1,0 +1,8 @@
+PESCA AUTOFARM - mod Forge 1.20.2 (somente cliente)
+Pesca sozinho no minigame de pesca do servidor Rede Warriors.
+
+USAR:
+ 1) Fique dentro do circulo do ponto de pesca (aparece "Entre no circulo pra pescar").
+ 2) Aperte P. O mod inicia a pesca, atrai, acerta a parte vermelha e a mira, e recomeca sozinho.
+ 3) Aperte P de novo para parar (ele mostra quantos pescou).
+ (A tecla pode ser trocada em Opcoes > Controles > Pesca AutoFarm.)
